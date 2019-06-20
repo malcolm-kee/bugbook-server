@@ -92,5 +92,25 @@
       "content": "Had a client upload 6mb of photos to their WordPress site's homepage. And then complain about site speeds.",
       "postId": 2
     }
+  ],
+  "bugs": [
+    {
+      "id": 1,
+      "title": "Layout messed up after I drag the textarea horizontally",
+      "reportedBy": "Lily",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "title": "Washing machine is not working today",
+      "reportedBy": "Mum",
+      "status": "Rejected"
+    },
+    {
+      "id": 3,
+      "title": "The site is ugly",
+      "reportedBy": "Client",
+      "status": "Clarification Required"
+    }
   ]
 }
