@@ -31,7 +31,7 @@
       "post": {
         "text": "when you visit a site you handed over 6 months ago and the client made some changes themselves",
         "image": {
-          "src": "/images/picture-after-client.jpg",
+          "src": "https://bugbook.netlify.com/images/picture-after-client.jpg",
           "alt": "Ugly photo"
         }
       }
@@ -54,10 +54,10 @@
         "name": "Brian Holt"
       },
       "post": {
-        "text": "\"Fullstack\" developer.",
+        "text": "CSS",
         "image": {
-          "src": "/images/full-stack-developer.jpg",
-          "alt": "Image of horse drawing with ugly head and beautiful tail"
+          "src": "https://bugbook.netlify.com/images/css-hack.png",
+          "alt": "Use !important to fix legacy CSS issue"
         }
       }
     },
